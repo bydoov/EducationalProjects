@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe.config
+C:\Users\ASUS\Desktop\Projects\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.exe
+C:\Users\ASUS\Desktop\Projects\MorseCodeTranslator\MorseCodeTranslator\bin\Debug\MorseCodeTranslator.pdb
+C:\Users\ASUS\Desktop\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.exe
+C:\Users\ASUS\Desktop\Projects\MorseCodeTranslator\MorseCodeTranslator\obj\Debug\MorseCodeTranslator.pdb
