@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RGB-Hexadecimal\RGB-Hexadecimal\bin\Debug\RGB-Hexadecimal.exe.config
+C:\Users\user\source\repos\RGB-Hexadecimal\RGB-Hexadecimal\bin\Debug\RGB-Hexadecimal.exe
+C:\Users\user\source\repos\RGB-Hexadecimal\RGB-Hexadecimal\bin\Debug\RGB-Hexadecimal.pdb
+C:\Users\user\source\repos\RGB-Hexadecimal\RGB-Hexadecimal\obj\Debug\RGB-Hexadecimal.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RGB-Hexadecimal\RGB-Hexadecimal\obj\Debug\RGB-Hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RGB-Hexadecimal\RGB-Hexadecimal\obj\Debug\RGB-Hexadecimal.exe
+C:\Users\user\source\repos\RGB-Hexadecimal\RGB-Hexadecimal\obj\Debug\RGB-Hexadecimal.pdb
